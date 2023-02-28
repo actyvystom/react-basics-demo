@@ -16,3 +16,6 @@ body {
 h1 {
   margin-top: 0;
 }
+.intro {
+  color: red;
+}
